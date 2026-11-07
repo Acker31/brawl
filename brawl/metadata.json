@@ -1,0 +1,6 @@
+{
+  "name": "Brawl Grid - 13-Character Arcade Profile Icon Suite",
+  "description": "High-resolution 13-character arcade game profile icon grid sheet inspired by Brawl Stars, featuring interactive automatic slicing, avatar customization, sound effects, and asset exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
